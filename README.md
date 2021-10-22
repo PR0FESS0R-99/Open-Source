@@ -7,7 +7,7 @@
 
 <p align="center">
 
-![visitors](https://this-page-visitor-badge.laobi.icu/badge?page_id=PR0FESS0R-99/Repository)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=PR0FESS0R-99/Repository)
 <br><img src="https://gpvc.arturio.dev/Mo-Tech-MRK-YT" alt="Profile views">
 
 </p>
