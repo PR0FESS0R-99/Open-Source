@@ -1,5 +1,17 @@
 # Repository
 
+![GitHub Repo stars](https://img.shields.io/github/stars/PR0FESS0R-99/Repository?style=social)
+<img src="https://img.shields.io/github/forks/PR0FESS0R-99/Repository?style=social"></img>
+
+* Visitor 
+
+p align="center">
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=PR0FESS0R-99/Repository)
+<br><img src="https://gpvc.arturio.dev/Mo-Tech-MRK-YT" alt="Profile views">
+
+</p>
+
 #### 1) ID Bot
 [![MT_ID_Bot](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=ID-Bot)](https://github.com/PR0FESS0R-99/ID-Bot)
 ![GitHub Repo stars](https://img.shields.io/github/stars/PR0FESS0R-99/ID-Bot?style=social)
