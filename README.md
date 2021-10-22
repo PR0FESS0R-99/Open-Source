@@ -1,12 +1,8 @@
 # Repository
 
-![GitHub Repo stars](https://img.shields.io/github/stars/PR0FESS0R-99/Repository?style=social)
-<img src="https://img.shields.io/github/forks/PR0FESS0R-99/Repository?style=social"></img>
-
-* Visitor 
-
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=PR0FESS0R-99/Repository)
+* Star ![GitHub Repo stars](https://img.shields.io/github/stars/PR0FESS0R-99/Repository?style=social)
+* Fork <img src="https://img.shields.io/github/forks/PR0FESS0R-99/Repository?style=social"></img>
+* Visitors ![visitors](https://visitor-badge.laobi.icu/badge?page_id=PR0FESS0R-99/Repository)
 
 
 
