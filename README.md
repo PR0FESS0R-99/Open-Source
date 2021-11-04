@@ -5,12 +5,12 @@
 * Visitors ![visitors](https://visitor-badge.laobi.icu/badge?page_id=PR0FESS0R-99/Repository)
 
 #### 1) ID Bot
-[![MT_ID_Bot](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=ID-Bot)](https://github.com/PR0FESS0R-99/ID-Bot)
+[![MT_ID_Bot](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=ID-Bot-V1)](https://github.com/PR0FESS0R-99/ID-Bot-V1)
 ![GitHub Repo stars](https://img.shields.io/github/stars/PR0FESS0R-99/ID-Bot?style=social)
 <img src="https://img.shields.io/github/forks/PR0FESS0R-99/ID-Bot?style=social"></img>
 
 #### 2) Google-Translater-Bot
-[![Google-Translater-Bot](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=Google-Translater-Bot)](https://github.com/PR0FESS0R-99/Google-Translater-Bot)
+[![Google-Translater-Bot](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=Google-Translator-Bot)](https://github.com/PR0FESS0R-99/Google-Translator-Bot)
 ![GitHub Repo stars](https://img.shields.io/github/stars/PR0FESS0R-99/Google-Translater-Bot?style=social)
 <img src="https://img.shields.io/github/forks/PR0FESS0R-99/Google-Translater-Bot?style=social"></img>
 
