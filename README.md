@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/github/forks/PR0FESS0R-99/LuciferMoringstar_Robot?style=social"></img>
 
 #### 2) Ban and unBan Bot
-[![Ban-and-unBan-Bot](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=Broadcast-Bot)](https://github.com/PR0FESS0R-99/Ban-and-unBan-Bot)
+[![Ban-and-unBan-Bot](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=Ban-and-unBan-Bot)](https://github.com/PR0FESS0R-99/Ban-and-unBan-Bot)
 ![GitHub Repo stars](https://img.shields.io/github/stars/PR0FESS0R-99/Ban-and-unBan-Bot?style=social)
 <img src="https://img.shields.io/github/forks/PR0FESS0R-99/Ban-and-unBan-Bot?style=social"></img>
 
