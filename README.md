@@ -45,10 +45,15 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/PR0FESS0R-99/Ban-and-unBan-Bot?style=social)
 <img src="https://img.shields.io/github/forks/PR0FESS0R-99/Ban-and-unBan-Bot?style=social"></img>
 
+#### 3) Donlee Robot v2
+[![DonLee_Robot V2](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=DonLee-Robot-V2)](https://github.com/PR0FESS0R-99/DonLee-Robot-V2)
+![GitHub Repo stars](https://img.shields.io/github/stars/PR0FESS0R-99/DonLee-Robot-V2?style=social)
+<img src="https://img.shields.io/github/forks/PR0FESS0R-99/DonLee-Robot-V2?style=social"></img>
+
 -------
 
 # Fork Repo
-#### 1) DonLee Bot v1
-[![DonLee_Robot](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=DonLee_bot)](https://github.com/PR0FESS0R-99/DonLee_bot)
-![GitHub Repo stars](https://img.shields.io/github/stars/PR0FESS0R-99/DonLee_Robot?style=social)
-<img src="https://img.shields.io/github/forks/PR0FESS0R-99/DonLee_Robot?style=social"></img>
+#### 1) DonLee RoBot v1
+[![DonLee_Robot](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=DonLee-Robot-V1)](https://github.com/PR0FESS0R-99/DonLee-Robot-V1)
+![GitHub Repo stars](https://img.shields.io/github/stars/PR0FESS0R-99/DonLee-Robot-V1?style=social)
+<img src="https://img.shields.io/github/forks/PR0FESS0R-99/DonLee-Robot-V1?style=social"></img>
