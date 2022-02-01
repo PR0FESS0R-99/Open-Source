@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/github/forks/PR0FESS0R-99/Broadcast-Bot?style=social"></img>
 
 #### 6) Auto Approved Bot
-[![Auto Approved Bot](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=Broadcast-Bot)](https://github.com/PR0FESS0R-99/Broadcast-Bot)
+[![Auto Approved Bot](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=Auto-Approved-Bot)](https://github.com/PR0FESS0R-99/Auto-Approved-Bot)
 ![GitHub Repo stars](https://img.shields.io/github/stars/PR0FESS0R-99/Auto-Approved-Bot?style=social)
 <img src="https://img.shields.io/github/forks/PR0FESS0R-99/Auto-Approved-Bot?style=social"></img>
 
