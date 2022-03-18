@@ -2,41 +2,22 @@
 
 **List Of projects By Me [Experimental and Educational Purpose]**
 
+ - [Adv Telegram ID Finder Bot](https://github.com/PR0FESS0R-99/ID-Bot-V1)
+ - [Google Translater Bot](https://github.com/PR0FESS0R-99/Google-Translator-Bot)
+ - [AutoCaption Bot](https://github.com/PR0FESS0R-99/PrivateAutoCaption)
+ - [Welcome Bot](https://github.com/PR0FESS0R-99/Auto-Welcome-Bot)
+ - [Auto Approver Bot](https://github.com/PR0FESS0R-99/Auto-Approved-Bot)
+ - [LuciferMoringstar Robot](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot)
+
 
 
 * Star ![GitHub Repo stars](https://img.shields.io/github/stars/PR0FESS0R-99/Repository?style=social)
 * Fork <img src="https://img.shields.io/github/forks/PR0FESS0R-99/Repository?style=social"></img>
 * Visitors ![visitors](https://visitor-badge.laobi.icu/badge?page_id=PR0FESS0R-99/Repository)
 
-# Created Repo
 
-#### 1) ID Bot
-[![MT_ID_Bot](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=ID-Bot-V1)](https://github.com/PR0FESS0R-99/ID-Bot-V1)
-![GitHub Repo stars](https://img.shields.io/github/stars/PR0FESS0R-99/ID-Bot?style=social)
-<img src="https://img.shields.io/github/forks/PR0FESS0R-99/ID-Bot?style=social"></img>
-
-#### 2) Google-Translater-Bot
-[![Google-Translater-Bot](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=Google-Translator-Bot)](https://github.com/PR0FESS0R-99/Google-Translator-Bot)
-![GitHub Repo stars](https://img.shields.io/github/stars/PR0FESS0R-99/Google-Translater-Bot?style=social)
-<img src="https://img.shields.io/github/forks/PR0FESS0R-99/Google-Translater-Bot?style=social"></img>
-
-#### 3) Private AutoCaption Bot
-[![PrivateAutoCaption](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=PrivateAutoCaption)](https://github.com/PR0FESS0R-99/PrivateAutoCaption)
-![GitHub Repo stars](https://img.shields.io/github/stars/PR0FESS0R-99/PrivateAutoCaption?style=social)
-<img src="https://img.shields.io/github/forks/PR0FESS0R-99/PrivateAutoCaption?style=social"></img>
-
-#### 4) Auto Welcome Bot
-[![Auto-Welcome-Bot](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=Auto-Welcome-Bot)](https://github.com/PR0FESS0R-99/Auto-Welcome-Bot)
-![GitHub Repo stars](https://img.shields.io/github/stars/PR0FESS0R-99/Auto-Welcome-Bot?style=social)
-<img src="https://img.shields.io/github/forks/PR0FESS0R-99/Auto-Welcome-Bot?style=social"></img>
-
-#### 5) Broadcast Bot
-[![Broadcast-Bot](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=Broadcast-Bot)](https://github.com/PR0FESS0R-99/Broadcast-Bot)
-![GitHub Repo stars](https://img.shields.io/github/stars/PR0FESS0R-99/Broadcast-Bot?style=social)
-<img src="https://img.shields.io/github/forks/PR0FESS0R-99/Broadcast-Bot?style=social"></img>
-
-#### 6) Auto Approved Bot
-[![Auto Approved Bot](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=Auto-Approved-Bot)](https://github.com/PR0FESS0R-99/Auto-Approved-Bot)
+#### 6) 
+[![Auto Approved Bot](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=Auto-Approved-Bot)]( )
 ![GitHub Repo stars](https://img.shields.io/github/stars/PR0FESS0R-99/Auto-Approved-Bot?style=social)
 <img src="https://img.shields.io/github/forks/PR0FESS0R-99/Auto-Approved-Bot?style=social"></img>
 
