@@ -8,3 +8,4 @@
  - [Welcome Bot](https://github.com/PR0FESS0R-99/Auto-Welcome-Bot)
  - [Auto Approver Bot](https://github.com/PR0FESS0R-99/Auto-Approved-Bot)
  - [LuciferMoringstar Robot](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot)
+ - [ShareText Bot](https://github.com/PR0FESS0R-99/ShareText-Bot)
